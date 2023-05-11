@@ -1,0 +1,112 @@
+{
+  "contacts": [
+    {
+      "id": "ca1",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.8srvO2PtBJk8dCezMndAtAHaJx&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Crona",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "ca2",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.hxknN5b25zel3hJCKa_xmQHaJi&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "2"
+    },
+    {
+      "id": "ca3",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.bnMZqZBnjB_bx2yrH54X-QHaLI&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Jacobson",
+      "title": "Tester",
+      "groupId": "3"
+    },
+    {
+      "id": "ca4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.JAKbO1hgHRWAwjGNNVAgnAHaIr&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "ca5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://img.izismile.com/img/img12/20190404/640/internet_has_chosen_the_most_beautiful_hollywood_actresses_of_all_time_640_high_04.jpg",
+      "mobile": "9876543210",
+      "company": "Keebler LLC",
+      "title": "HR",
+      "groupId": "1"
+    },
+    {
+      "id": "ca6",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://i.pinimg.com/originals/e7/0e/18/e70e1876cdd4f5537df9a817248b9477.jpg",
+      "mobile": "9876543210",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "ca7",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.m3rkzh5zmIk5rDE9ib22wwHaJE&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Johns Group",
+      "title": "Data Analyst",
+      "groupId": "3"
+    },
+    {
+      "id": "ca8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
+      "mobile": "9876543210",
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "groupId": "3",
+      "id": "ca9",
+      "name": "Ajith manickan",
+      "photo": "data:image/jpeg;base64,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",
+      "mobile": "7403669094",
+      "email": "asx@d",
+      "company": "dsd",
+      "title": "sd"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
